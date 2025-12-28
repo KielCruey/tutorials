@@ -1,5 +1,7 @@
 #include <iostream>
 
+#include "maths.hpp"
+
 namespace math {
 	double add(double a, double b){
 		return a + b;

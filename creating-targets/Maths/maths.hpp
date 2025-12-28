@@ -1,5 +1,3 @@
-#pragma once
-
 namespace math {
 	double add(double a, double b);
 	double subtract(double a, double b);
